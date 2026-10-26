@@ -1,0 +1,2 @@
+# .github
+Pluginboard on GitHub
