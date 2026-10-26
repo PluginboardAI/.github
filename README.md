@@ -1,2 +1,3 @@
-# .github
-Pluginboard on GitHub
+# Pluginboard
+
+The organization profile lives in [profile/README.md](profile/README.md).
